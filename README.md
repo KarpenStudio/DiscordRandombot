@@ -1,0 +1,2 @@
+# DiscordRandombot
+Discord random generator
