@@ -1,4 +1,4 @@
-# DiscordRandombot
+# DiscordRandombot Инструкция
 Discord random generator
 No English version.
 
@@ -27,6 +27,10 @@ https://discord.com/developers/docs/intro
 Как запустить?
 В консоль пишем (python Main.py)
 
-Coветую прочитать Updates.md
-
 Спасибо за прочтение!
+
+#Updates / обновления
+Version 2.0
+
+Много пофикшено багов и добавленна секретная команда
+Ждите 3.0 это будет круто! Я уже работаю над этим.
