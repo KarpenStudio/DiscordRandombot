@@ -27,4 +27,6 @@ https://discord.com/developers/docs/intro
 Как запустить?
 В консоль пишем (python Main.py)
 
+Coветую прочитать Updates.md
+
 Спасибо за прочтение!
