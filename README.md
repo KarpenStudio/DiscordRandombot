@@ -1,4 +1,5 @@
 # Randombot. Больше чем чатбот!
+## Инструкция
 Discord random generator
 No English version.
 
