@@ -29,7 +29,7 @@ https://discord.com/developers/docs/intro
 
 Спасибо за прочтение!
 
-#Updates / обновления
+# Updates / обновления
 Version 1.2.0
 
 Большое обновление библиотек дискорд
